@@ -6,9 +6,13 @@ The dataset covers details about startups, locations, industries, investors, fun
 Data Preparation:
 
 Cleaned and transformed the dataset in Power Query.
+
 Removed missing values, corrected city names, and fixed inconsistent text.
+
 Converted funding amounts into proper numeric fields.
+
 Added new columns like Year, Month, and cleaned the Investors field.
+
 Eliminated duplicate records.
 
 
@@ -17,9 +21,13 @@ Dashboard Overview:
 The dashboard includes:
 
 Total Funding, Startup Count, Investor Count
+
 Industry-wise funding (Bar Chart).
+
 Funding trend by year (Line Chart).
+
 Top funded cities (Column Chart).
+
 Leading investors (Donut Chart).
 
 
@@ -33,6 +41,7 @@ https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
 Tools Used:
 
 Power BI
+
 Power Query
 
 
